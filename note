@@ -22,3 +22,5 @@ const numbers = [55, 101, 1000];
 }
 
 normalize.css make all chrome firefox ie ... the same when style css files
+
+spread operator -> [...object]
